@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31402.337
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMessanger", "MyMessanger.csproj", "{12237C61-5A71-4153-A758-4B2F1E4DF639}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyMessanger", "MyMessanger.csproj", "{12237C61-5A71-4153-A758-4B2F1E4DF639}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPCoreServer", "..\ASPCoreServer\ASPCoreServer.csproj", "{BAC473E1-67E0-4A97-A5E7-CC213D40F3F0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{12237C61-5A71-4153-A758-4B2F1E4DF639}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12237C61-5A71-4153-A758-4B2F1E4DF639}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12237C61-5A71-4153-A758-4B2F1E4DF639}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAC473E1-67E0-4A97-A5E7-CC213D40F3F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAC473E1-67E0-4A97-A5E7-CC213D40F3F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAC473E1-67E0-4A97-A5E7-CC213D40F3F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAC473E1-67E0-4A97-A5E7-CC213D40F3F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
